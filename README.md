@@ -13,6 +13,7 @@ This UX experiment documents the process of solving a user experience challenge 
 To simulate a real-world UX problem-solving process using the Design Thinking framework, culminating in the creation of structured user-centered artifacts like user stories, scenarios, and architecture diagrams.
 
 ---
+Pdf Link: https://lms2.cse.saveetha.in/pluginfile.php/53986/assignsubmission_file/submission_files/150362/lab%20ex6.pdf?forcedownload=1
 
 ## Aim
 
